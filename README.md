@@ -7,9 +7,8 @@
 - How is the district summary affected?
 
 Below we have a table in comparison before/after the changes we made. As you can see just a few percentages down not much of a differences when we applied **"NaNs"** .
-![NewData_DistrictSummary](https://user-images.githubusercontent.com/71118429/97063360-20ffc000-1554-11eb-9f6f-77bb126ab777.png)
 ![District_Summary](https://user-images.githubusercontent.com/71118429/97063359-1e9d6600-1554-11eb-8fb2-ab1708ce9bf5.png)
-
+![NewData_DistrictSummary](https://user-images.githubusercontent.com/71118429/97063360-20ffc000-1554-11eb-9f6f-77bb126ab777.png)
 - How is the school summary affected?
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
