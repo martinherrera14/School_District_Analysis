@@ -7,9 +7,16 @@
 - How is the district summary affected?
 
 Below we have a table in comparison before/after the changes we made. As you can see just a few percentages down not much of a differences when we applied **"NaNs"** .
+
 ![District_Summary](https://user-images.githubusercontent.com/71118429/97063359-1e9d6600-1554-11eb-8fb2-ab1708ce9bf5.png)
 ![NewData_DistrictSummary](https://user-images.githubusercontent.com/71118429/97063360-20ffc000-1554-11eb-9f6f-77bb126ab777.png)
 - How is the school summary affected?
+
+Before adding **"NaNs"** to **the school district**. Their original grades for passing math was **66.9%** furthermore for passing reading was **69.9%**. 
+
+![School_summary](https://user-images.githubusercontent.com/71118429/97063357-1a714880-1554-11eb-9f9e-c61ad23c8cf9.png)
+
+After applying **"NaNs"** to the 9th graders . The passing percentages rised to the mid **90s** for both math and reading 
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
