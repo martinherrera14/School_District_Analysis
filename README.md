@@ -16,8 +16,13 @@ Before adding **"NaNs"** to **the school district**. Their original grades for p
 
 ![School_summary](https://user-images.githubusercontent.com/71118429/97063357-1a714880-1554-11eb-9f9e-c61ad23c8cf9.png)
 
-After applying **"NaNs"** to the 9th graders . The passing percentages rised to the mid **90s** for both math and reading 
+After applying **"NaNs"** to the 9th graders(Ths) . The passing percentages rised to the mid **90s** for both math and reading as shown in the table below.
+
+![schoolsumary2](https://user-images.githubusercontent.com/71118429/97064242-55c24600-1559-11eb-9544-01c4f881fbcf.png)
+
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+Removing the **ninth graders** math and reading scores for Thomas High School moved the school overall passing score from 90.95% to 90.63%. This small decrease did not change the schools range based on overall score as compared to other schools. They are still then 2nd highest scores.
 
 - How does replacing the ninth-grade scores affect the following:
